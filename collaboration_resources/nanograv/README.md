@@ -1,1 +1,1 @@
-Resources for NANOGrav: nanograv.org
+Resources for [NANOGrav](nanograv.org)
