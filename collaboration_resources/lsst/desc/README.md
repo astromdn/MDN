@@ -1,0 +1,3 @@
+# LSST Dark Energy Science Collaboration
+
+The LSST Dark Energy Science Collaboration (DESC, [website]()) maintains collaboration policy documents on a [GitHub repository](https://github.com/LSSTDESC/Policie) that includes a Professional Conduct Policies document as well as many other documents defining the organizational structure and procedures of the collaboration. According to the DESC policies page, "We hope that other collaborations benefit from reading our policies and adapting them for their own use."  
