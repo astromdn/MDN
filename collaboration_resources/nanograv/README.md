@@ -15,3 +15,6 @@ Resources for [NANOGrav](nanograv.org):
   * imposter syndrome & microagressions
   * sexual harassment
   * sexual assault & harassment
+* [Training session policy](https://docs.google.com/document/d/1QAJuAGYc3r6M-Hu_H8ULnfeLXeH693BKIVEShYKI3Ow/edit?usp=sharing): makes attendance/viewing mandatory
+* [Speakers Bureau](https://docs.google.com/document/d/1cMCBqejAJyyeW1IuE6t0Oq7X4mTvalgJr0IRVZPs30Y/edit?usp=sharing): much more informal than e.g., LIGO
+
