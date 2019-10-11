@@ -1,3 +1,4 @@
-# Instructions
+# About this repository
 
-Each science collaboration should create a subdirectory within this directory to post resources.
+This repository is maintained by the Multimessenger Diversity Network (MDN), a community of representatives from multimessenger astronomy research collaborations focused on increasing diversity in the field. The MDN shares knowledge, experiences, and training and develops resources and practices around broadning participation. The MDN is currently focused on creating more welcoming and inclusive research collaborations. 
+In this repository, you will find a folder for each of the current participating collaborations. Within the folders are resources including policies, links to climate surveys, diversity statements, and examples of what collaborations are doing right now around diversity, equity, and inclusion. In some cases, there is a note not to use or reproduce the content without contacting an individual first. By using this repository, you are agreeing to abide by such requests, and to provide appropriate attribution for any resources you use.   
