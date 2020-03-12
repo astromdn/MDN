@@ -3,7 +3,7 @@ LIGO DEI resources
 * Diversity Committee
 * Beginner's Guide
 * Child Care Grants for collaboration meetings
-* translations for press releases and science summaries
+* translations for press releases and science summaries: https://www.ligo.org/science/outreach.php
 
 * Meeting presentations/resources:
   * Women in physics and astronomy
