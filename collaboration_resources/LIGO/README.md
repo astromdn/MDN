@@ -5,6 +5,7 @@ LIGO DEI resources
 * Family Care Grants for collaboration meetings
 * translations for press releases and science summaries: https://www.ligo.org/science/outreach.php
 * Humans of LIGO: https://humansofligo.blogspot.com/
+* LVC Allies: http://lvcallies.org/
 
 * Meeting presentations/resources:
   * Women in physics and astronomy
